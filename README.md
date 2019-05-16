@@ -25,5 +25,4 @@ If you want to have the persian word of number 122, you only need to do like bel
 ```java
 BigDecimal number = new BigDecimal(122);
 String numberWord = PersianNumberToWord.onWork(number, "ریال");
-Toast.makeText(this, numberWord, Toast.LENGTH_SHORT).show();
 ```
