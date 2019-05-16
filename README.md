@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/razavioo/PersianNumberToWord.svg)](https://jitpack.io/#razavioo/PersianNumberToWord)
+
 # Intro
 Convert numbers to Persian word in Android (Java)
 based on : https://github.com/SalmanAA/wordifyfa
