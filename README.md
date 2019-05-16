@@ -1,1 +1,3 @@
-این یک کتابخانه ساده برای تبدیل اعداد به حروف در زبان جاوا است.
+convert numbers to persian word in Android (Java)
+
+based on : https://github.com/SalmanAA/wordifyfa
